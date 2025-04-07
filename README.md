@@ -46,5 +46,7 @@ Este proyecto tuvo como objetivo proporcionar a BIOGENESYS una herramienta anal√
 
 [LinkedIn](https://www.linkedin.com/in/valerialozano)  
 [Correo](mailto:valerialozano0600@email.com)
-[GitHub](https://github.com/valerialozano)
+[GitHub](https://github.com/valerialc)
+
+Documento: https://github.com/valerialc/Proyecto-biogenesys.git 
 
