@@ -1,6 +1,6 @@
 # Proyecto-biogenesys
 Expansión estratégica de laboratorios y centros de vacunación en LATAM usando Python y Power BI
-### ***<div align="center">Proyecto Integrador 4 Data Analytics Henry 🚀 2024</div>***  
+### ***<div align="center">Proyecto Integrador 4 Data Analytics Henry 🚀 2025</div>***  
 
 - *🧪 Expansión estratégica de Biogenesys con Python & Power BI*  
 
