@@ -1,6 +1,6 @@
 # Proyecto-biogenesys
 Expansión estratégica de laboratorios y centros de vacunación en LATAM usando Python y Power BI
-### ***<div align="center">Proyecto Integrador 4 Data Analytics Henry 🚀 2025</div>***  
+### ***<div align="center">Proyecto Integrador 4 Data Analytics Henry 🚀 2024</div>***  
 
 - *🧪 Expansión estratégica de Biogenesys con Python & Power BI*  
 
@@ -46,8 +46,6 @@ Este proyecto tuvo como objetivo proporcionar a BIOGENESYS una herramienta anal�
 
 [LinkedIn](https://www.linkedin.com/in/valerialozano)  
 [Correo](mailto:valerialozano0600@email.com)
-https://github.com/valerialc/Proyecto-biogenesys.git
 [GitHub](https://github.com/valerialc)
 
-Documento: https://github.com/valerialc/Proyecto-biogenesys.git 
-
+Documento :  https://github.com/valerialc/Proyecto-biogenesys.git
